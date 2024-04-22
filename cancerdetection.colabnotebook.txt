@@ -1,0 +1,3 @@
+The machine learning part of the application was done in a Google colab notebook at the following link:
+
+https://colab.research.google.com/drive/1L4k4-eQfZkKbFp5LXyBpD1N-q1_HuCW0?usp=sharing
